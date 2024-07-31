@@ -6,7 +6,7 @@ public class Animals {
         System.err.println("baca legs " + baca.legs);
         System.err.println("gallo legs " + gayo.legs);
 
-        baca.setName("mooooow");
+        baca.setName("latifa");
         gayo.setName("coco");
 
         // System.err.println("baca name " + baca.name);
@@ -14,6 +14,14 @@ public class Animals {
 
         baca.getName();
         gayo.getName();
+
+
+
+        Cow bacara = new Cow();
+        bacara.makeSound();
+        bacara.move();
+
+
 
 
 

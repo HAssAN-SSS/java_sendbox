@@ -25,7 +25,7 @@ public class Animal {
         System.err.println("the animal name is " + this.name);
     }
 
-    public void setName(String animal) {
-        this.name = animal;
+    public void setName(String nombre) {
+        this.name = nombre;
     }
 }
